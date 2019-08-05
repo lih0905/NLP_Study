@@ -12,3 +12,7 @@
 [RNN](https://ko.coursera.org/lecture/nlp-sequence-models/recurrent-neural-network-model-ftkzt) + [spaCy tutorial Chapter 1](https://course.spacy.io/chapter1)
 
 
+### '19.8.6 (화)
+
+[LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) + [spaCy tutorial Chapter 2](https://course.spacy.io/chapter2)
+
