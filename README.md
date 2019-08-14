@@ -16,3 +16,8 @@
 
 [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) + [spaCy tutorial Chapter 2](https://course.spacy.io/chapter2)
 
+
+### '19.8.13 (화)
+
+[GRU](https://arxiv.org/pdf/1412.3555.pdf) + [spaCy tutorial Chapter 3](https://course.spacy.io/chapter3)
+
