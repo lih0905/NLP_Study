@@ -21,3 +21,8 @@
 
 [GRU](https://arxiv.org/pdf/1412.3555.pdf) + [spaCy tutorial Chapter 3](https://course.spacy.io/chapter3)
 
+
+### '19.8.21 (화)
+
+[Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) ([논문 리뷰](https://lih0905.github.io/%EB%88%88%EB%AC%B8_%EB%A6%AC%EB%B7%B0/Word2vec/)) + [spaCy tutorial Chapter 4](https://course.spacy.io/chapter4)
+
