@@ -22,7 +22,12 @@
 [GRU](https://arxiv.org/pdf/1412.3555.pdf) + [spaCy tutorial Chapter 3](https://course.spacy.io/chapter3)
 
 
-### '19.8.21 (화)
+### '19.8.20 (화)
 
 [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) ([논문 리뷰](https://lih0905.github.io/nlp/Word2vec_2/)) + [spaCy tutorial Chapter 4](https://course.spacy.io/chapter4)
+
+
+### '19.8.27 (화)
+
+[GloVe](https://nlp.stanford.edu/pubs/glove.pdf) ([논문 리뷰](https://lih0905.github.io/nlp/GloVe/)) + [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
