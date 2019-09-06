@@ -31,3 +31,9 @@
 
 [GloVe](https://nlp.stanford.edu/pubs/glove.pdf) ([논문 리뷰](https://lih0905.github.io/nlp/GloVe/)) + [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
+
+
+### '19.9.3 (화)
+
+[FastText (1)](https://aclweb.org/anthology/Q17-1010) ([논문 리뷰](https://lih0905.github.io/nlp/fasttext1/)) + [FastText (2)](https://arxiv.org/pdf/1607.01759) + [ELMo](https://arxiv.org/pdf/1802.05365)
+
