@@ -37,3 +37,12 @@
 
 [FastText (1)](https://aclweb.org/anthology/Q17-1010) ([논문 리뷰](https://lih0905.github.io/nlp/fasttext1/)) + [FastText (2)](https://arxiv.org/pdf/1607.01759) + [ELMo](https://arxiv.org/pdf/1802.05365)
 
+
+### '19.9.10 (화)
+
+[Word-Piece Model](https://arxiv.org/pdf/1609.08144.pdf) + [DEEP LEARNING FOR NLP WITH PYTORCH #1](https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html#sphx-glr-beginner-nlp-deep-learning-tutorial-py)
+
+
+### '19.9.17 (화)
+
+[Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) / [PyTorch Implementation by 훈님](https://github.com/Huffon/pytorch-seq2seq-kor-eng) + [DEEP LEARNING FOR NLP WITH PYTORCH #2](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#sphx-glr-beginner-nlp-word-embeddings-tutorial-py)
