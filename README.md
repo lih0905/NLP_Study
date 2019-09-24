@@ -46,3 +46,8 @@
 ### '19.9.17 (화)
 
 [Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) / [PyTorch Implementation by 훈님](https://github.com/Huffon/pytorch-seq2seq-kor-eng) + [DEEP LEARNING FOR NLP WITH PYTORCH #2](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#sphx-glr-beginner-nlp-word-embeddings-tutorial-py)
+
+
+### '19.9.24 (화)
+
+[Attention](https://arxiv.org/pdf/1409.0473) + [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
