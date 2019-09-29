@@ -14,7 +14,7 @@
 
 ### '19.8.6 (화)
 
-[LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) + [spaCy tutorial Chapter 2](https://course.spacy.io/chapter2)
+[LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)(<b>내 발표!</b>) + [spaCy tutorial Chapter 2](https://course.spacy.io/chapter2)
 
 
 ### '19.8.13 (화)
@@ -45,9 +45,14 @@
 
 ### '19.9.17 (화)
 
-[Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) / [PyTorch Implementation by 훈님](https://github.com/Huffon/pytorch-seq2seq-kor-eng) + [DEEP LEARNING FOR NLP WITH PYTORCH #2](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#sphx-glr-beginner-nlp-word-embeddings-tutorial-py)
+[Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) / [PyTorch Implementation by 훈님](https://github.com/Huffon/pytorch-seq2seq-kor-eng) + [DEEP LEARNING FOR NLP WITH PYTORCH #2](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#sphx-glr-beginner-nlp-word-embeddings-tutorial-py)(<b>내 발표!</b>)
 
 
 ### '19.9.24 (화)
 
 [Attention](https://arxiv.org/pdf/1409.0473) + [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+
+
+### '19.9.31 (화)
+
+[Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)(<b>내 발표!</b>) + [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
