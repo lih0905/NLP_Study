@@ -53,6 +53,6 @@
 [Attention](https://arxiv.org/pdf/1409.0473) + [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 
 
-### '19.9.31 (화)
+### '19.10.1 (화)
 
 [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) (<b>내 발표!</b> [자료](https://github.com/lih0905/NLP_Study/blob/master/Slides/w11_Transformer.pdf) + [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
