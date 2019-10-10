@@ -1,4 +1,4 @@
-# AI Robotics KR - [NLP Study](https://github.com/ai-robotics-kr/nlp_study) ('19.7.23~)
+# AI Robotics KR - [NLP Study](https://github.com/ai-robotics-kr/nlp_study) ('19.7.23 ~ '19.10.8)
 
 여기에는 본인이 공부하며 준비한 내용을 업로드함.
 
@@ -56,3 +56,10 @@
 ### '19.10.1 (화)
 
 [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) (<b>내 발표!</b> [자료](https://github.com/lih0905/NLP_Study/blob/master/Slides/w11_Transformer.pdf) + [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+
+### '19.10.8 (화)
+
+[Natural Language Processing with CNN](https://arxiv.org/pdf/1408.5882.pdf) + Closing party!
+
+
