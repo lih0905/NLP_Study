@@ -7,7 +7,7 @@ cymem==2.0.2
 en-core-web-md==2.1.0
 en-core-web-sm==2.1.0
 idna==2.8
-joblib==0.13.2
+joblib==1.2.0
 JPype1==0.7.0
 kiwisolver==1.1.0
 konlpy==0.5.1
